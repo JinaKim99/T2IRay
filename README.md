@@ -1,5 +1,5 @@
-# Academic Project Page Template
-This is an academic paper project page template.
+# T2IRay
+This is the repository that contains source code for the T2IRay website.
 
 
 Example project pages built using this template are:
@@ -13,7 +13,7 @@ Example project pages built using this template are:
 
 
 
-## Start using the template
+## Citation
 To start using the template click on `Use this Template`.
 
 The template uses html for controlling the content and css for controlling the style. 
